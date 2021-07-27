@@ -1,0 +1,14 @@
+<html>
+<head>
+<TITLE> Task 1 </TITLE> 
+</head>
+<body TEXT="black">
+<basefont size = 7> Hello, This is task 1
+<A HREF="www.google.com">GOOGLE</A>
+<ol>
+<li> Step 1</li>
+<li> Step 2</li>
+<Li> Step 3</Li>
+</ol>
+</body> 
+</html>
